@@ -1,0 +1,12 @@
+18. 32비트 정수
+19. ENDP
+20. 프로그램의 진입점을 지정하는 목적으로 사용된다
+21. 함수나 프로시저의 원형을 선언하기 위해서
+22. false
+23. true
+24. true
+25. NASM에서는 DD, MASM/TASM에서는 SDWORD다.
+26. DW, SWORD
+27. QWORD
+28. SBYTE
+29. DT, TBYTE
