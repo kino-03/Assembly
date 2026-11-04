@@ -1,0 +1,25 @@
+1 - a. AL = 6Ah
+1 - b. AL = EAh
+1 - c. AL = FDh
+1 - d. AL = A9h
+
+2 - a. AL = 9Ah
+2 - b. AL = 6Ah
+2 - c. AL = A9h
+2 - d. AL = 3Ah
+
+3. AX = 2200h, DX = 0002h
+
+4. AX = 0306h
+
+5. EAX = 00012340h, EDX = 00000000h
+
+6. 나눗셈 오류 예외
+
+7. BX = 0066h
+
+8. Divide Error(#DE) 발생
+
+9. 1AEE1FD3EBFA16EFh
+
+10. 0004080C10140000h
